@@ -1,5 +1,5 @@
 # About Me:
-I'm Sannjay, a Toronto-based student developer and tech hobbyist. <br>I work with a variety of technologies and programs to build programs<br>to solve both niche and important problems that users can benefit from.<br>I am the creator of the award-winning CWSF project, Signal, a real-time American<br>Sign Langauge to Speech converter using Deep Learning and AI. <br>Please check out Signal and my other GitHub projects that I've worked on<br>so far.
+I'm Sannjay, a Toronto-based student developer and tech hobbyist. <br>I am the creator of the award-winning CWSF project "Signal", a real-time American<br>Sign Langauge to Speech converter using Deep Learning and AI. <br>Please check out Signal and my other GitHub projects that I've worked on<br>so far.
 
 
 ## 🌐 Socials:
