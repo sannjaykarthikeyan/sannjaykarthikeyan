@@ -1,5 +1,5 @@
 # About Me:
-I'm Sannjay, a first year student studying Statistics and Management at the University of Toronto, Scarborough. <br>I've created the award-winning CWSF project "Signal", a real-time American Sign Langauge to Speech<br>converter using Deep Learning and AI. <br>Please check out Signal and my other GitHub projects that I've worked on<br>so far.
+I'm Sannjay, a first year student studying Statistics and Management at the University of Toronto, Scarborough. <br>I've created the award-winning CWSF project "Signal", a real-time American Sign Langauge to Speech<br>converter using Deep Learning and AI. Please check out Signal and my other GitHub projects <br> that I've worked on so far.
 
 
 ## 🌐 Socials:
